@@ -1,0 +1,12 @@
+add
+function
+Global
+a
+int
+Function Parameter
+b
+int
+Function Parameter
+sum
+int
+local
